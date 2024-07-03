@@ -1,19 +1,14 @@
 #MMM-MetroClock .time {
     display: flex;
-    justify-content: left;
-    text-align: left;
     align-items: center;
-    gap: 10px;
+    column-gap: 10px;
     
 }
 
 #MMM-MetroClock .time div {
     flex: 1;
-    text-align: left;
-    flex-grow: 0;
-    flex-shrink: 1;
 }
 
 .beast {
-    font-size: 8rem;
+    font-size: 7.5rem;
 }
