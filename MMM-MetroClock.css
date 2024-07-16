@@ -9,6 +9,6 @@
     flex: 1;
 }
 
-.beast {
-    font-size: 7.5rem;
+#MMM-MetroClock .date {
+    padding-left: 15px;
 }
